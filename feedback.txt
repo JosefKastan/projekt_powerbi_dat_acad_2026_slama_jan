@@ -1,0 +1,17 @@
+Dobrý den,
+
+děkuji za předchozí zpětnou vazbu. Ve finální verzi jsem report graficky přepracoval výrazněji – sjednotil jsem vizuální styl obou stránek, vytvořil společný KPI panel a samostatnou filtrační sekci, upravil kontejnery a formátování vizuálů, doplnil vlastní titulky, jednotnou barevnou paletu a měnové formátování. Graficky upravena byla také produktová Matrix včetně hlavičky, souhrnů a zvýraznění hodnot.
+
+Zároveň bych ale rád otevřeně uvedl, že s důrazem kladeným na grafickou stránku výstupu úplně nesouhlasím.
+
+Z mého pohledu má být u datového reportu hlavní prioritou především to, aby byla data správná, přehledná, rychle čitelná a aby z nich uživatel dokázal bez zbytečného hledání získat potřebnou informaci. Grafická úprava má tuto práci podporovat – ne se stát cílem sama o sobě.
+
+Neříkám to pouze jako osobní preferenci. Vycházím přitom z přibližně tříleté praxe ve vedení obchodů a následně z více než čtyřleté praxe v Amazonu, kde je každodenní práce s daty, reporty, metrikami a rozhodováním na základě dat běžnou součástí práce. V praxi je podle mé zkušenosti nejdůležitější přinést správná data, prezentovat je profesionálně, srozumitelně a tak, aby se podle nich dalo rychle rozhodovat.
+
+Samozřejmě považuji za důležité, aby byl report čistý, konzistentní, zarovnaný a vizuálně profesionální. Za méně přínosné ale považuji situaci, kdy se výrazné množství času věnuje dodatečnému „vypiplávání“ barev, dekorativních prvků a dalších vizuálních detailů, které samotnou interpretaci dat nijak nezlepšují. V takovém případě podle mě grafická stránka spíše odvádí pozornost od toho nejdůležitějšího – tedy od samotných dat a informace, kterou mají předat.
+
+Právě toto vnímám jako jednu z věcí, které by podle mě Datová akademie mohla více zdůraznit: nejprve správnost, srozumitelnost a informační hodnota dat, teprve potom grafický polish. Design je určitě důležitý, ale měl by sloužit datům, nikoliv naopak.
+
+Ve finální verzi jsem nicméně požadované grafické úpravy zapracoval a snažil jsem se najít kompromis mezi požadavkem na výraznější vizuální zpracování a zachováním jednoduchého, čistého a dobře čitelného reportu.
+
+Děkuji za opětovné posouzení.
